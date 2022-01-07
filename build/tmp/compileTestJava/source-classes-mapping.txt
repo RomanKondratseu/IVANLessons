@@ -1,8 +1,0 @@
-Calculator.java
- Calculator
-linkedlist/bidirectional/BidirctionalListTest.java
- linkedlist.bidirectional.BidirctionalListTest
-TestCalculator.java
- TestCalculator
-linkedlist/unidirectional/CustomList.java
- linkedlist.unidirectional.CustomList
