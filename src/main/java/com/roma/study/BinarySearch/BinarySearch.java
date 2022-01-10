@@ -34,9 +34,9 @@ public class BinarySearch {
 
     static void show(int number, int result) {
         if (number != result) {
-            System.out.println("ЧИсло не найдено");
+            System.out.println("");
         } else {
-            System.out.println("Число найдено = " + result);
+            System.out.println(" = " + result);
         }
     }
 
